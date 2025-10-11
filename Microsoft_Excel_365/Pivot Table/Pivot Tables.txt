@@ -1,0 +1,14 @@
+* Pivot Tables :
+
+A Pivot Table in Excel (or other tools like Power BI, Google Sheets) is a feature used to summarize, analyze, explore, and present large amounts of data quickly.
+
+Instead of manually calculating totals, averages, or comparisons, you can drag and drop fields into rows, columns, values, and filters to generate insights.
+
+
+Why Pivot Tables Are Useful?
+
+1)Quick Summarization – You can get totals, averages, counts without writing formulas.
+2)Flexible Analysis – Rearranging fields shows data from different perspectives.
+3)Data Filtering & Grouping – Easily filter by categories, dates, or ranges.
+
+
