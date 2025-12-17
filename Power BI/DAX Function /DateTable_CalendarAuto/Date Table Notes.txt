@@ -1,0 +1,17 @@
+ Phiscal  Year =    1 Jan 2024  to  31 Dec 2024
+
+Finacial Year  =  1 April 2023  to 31 March 2024
+
+Order Date (Sales Table) = 01-01-2023  to  05-12-2025(Latest)
+
+Join Date (Customer Table) = 09-12-2021(Earlier)  to  07-12-2023
+
+CalendarAuto([Phiscal YearEndMonth])  =  01-01-2021  to  31-12-2025
+
+CalendarAuto( [Phiscal YearEndMonth] = 3 )  =  01-04-2021 to 31-03-2026
+
+
+1)DATESYTD gives all dates from January 1st of the current year till today (or selected date).
+
+2)DATESQTD gives all dates from the first day of the current quarter till today.
+
