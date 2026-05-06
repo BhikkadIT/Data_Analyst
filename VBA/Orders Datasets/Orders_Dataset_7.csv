@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Category,Product_Name,Quantity,Unit_Price,Total_Amount,City,Payment_Method,Status
+ORD7001,2025-06-30,Clothing,Shoes,9,29931,269379,Surat,UPI,Processing
+ORD7002,2025-09-20,Beauty,Perfume,10,2880,28800,Pune,Credit Card,Delivered
+ORD7003,2025-01-01,Sports,Dumbbells,9,798,7182,Kolkata,Net Banking,Cancelled
+ORD7004,2025-04-28,Books,Self-Help Book,9,23732,213588,Ahmedabad,Debit Card,Delivered
+ORD7005,2025-10-15,Toys,RC Car,6,39585,237510,Kolkata,Net Banking,Pending
+ORD7006,2025-04-11,Books,Magazine,1,8424,8424,Kolkata,Credit Card,Processing
+ORD7007,2025-10-24,Beauty,Hair Dryer,9,16769,150921,Delhi,Debit Card,Processing
+ORD7008,2025-04-22,Automotive,Car Vacuum,7,39826,278782,Kolkata,UPI,Shipped
+ORD7009,2025-10-12,Sports,Yoga Mat,9,37252,335268,Mumbai,Cash on Delivery,Processing
+ORD7010,2025-10-16,Beauty,Lipstick,9,14679,132111,Surat,Credit Card,Shipped
+ORD7011,2025-07-14,Automotive,Seat Covers,10,36771,367710,Bangalore,Cash on Delivery,Delivered
+ORD7012,2025-03-29,Clothing,T-Shirt,5,33704,168520,Surat,Net Banking,Cancelled
+ORD7013,2025-08-12,Toys,Action Figure,10,17567,175670,Surat,Net Banking,Cancelled
+ORD7014,2025-12-29,Toys,Action Figure,10,16126,161260,Hyderabad,UPI,Cancelled
+ORD7015,2025-12-21,Home & Kitchen,Microwave,8,13220,105760,Bangalore,Credit Card,Shipped
+ORD7016,2025-10-19,Toys,Building Blocks,7,7283,50981,Chennai,Cash on Delivery,Delivered
+ORD7017,2025-12-01,Clothing,Shoes,2,24399,48798,Mumbai,UPI,Delivered
+ORD7018,2025-03-13,Home & Kitchen,Mixer,9,32377,291393,Hyderabad,Cash on Delivery,Pending
+ORD7019,2025-08-21,Electronics,Camera,2,11676,23352,Bangalore,Net Banking,Processing
+ORD7020,2025-11-22,Electronics,Smart Watch,4,46877,187508,Mumbai,Cash on Delivery,Delivered
+ORD7021,2025-01-12,Clothing,Jacket,1,36104,36104,Chennai,Debit Card,Pending
+ORD7022,2025-10-01,Home & Kitchen,Vacuum Cleaner,10,18101,181010,Surat,Net Banking,Delivered
+ORD7023,2025-10-16,Automotive,Seat Covers,9,3619,32571,Delhi,Cash on Delivery,Cancelled
+ORD7024,2025-07-01,Sports,Tennis Racket,8,39368,314944,Bangalore,Credit Card,Pending
+ORD7025,2025-03-01,Automotive,Air Freshener,1,28680,28680,Surat,Net Banking,Delivered
+ORD7026,2025-05-28,Automotive,Tool Kit,2,49676,99352,Hyderabad,UPI,Processing
+ORD7027,2025-03-27,Automotive,Car Vacuum,10,6634,66340,Ahmedabad,Cash on Delivery,Processing
+ORD7028,2025-11-23,Electronics,Smart Watch,4,44738,178952,Chennai,Credit Card,Processing
+ORD7029,2025-10-05,Automotive,Air Freshener,2,47544,95088,Delhi,Net Banking,Pending
+ORD7030,2025-11-03,Automotive,Tool Kit,6,38110,228660,Chennai,Cash on Delivery,Shipped
+ORD7031,2025-11-20,Clothing,T-Shirt,9,20188,181692,Pune,UPI,Pending
+ORD7032,2025-07-04,Clothing,Shorts,2,40991,81982,Pune,UPI,Delivered
+ORD7033,2025-06-29,Electronics,Headphones,5,16868,84340,Hyderabad,UPI,Shipped
+ORD7034,2025-08-27,Sports,Dumbbells,8,21004,168032,Mumbai,Debit Card,Pending
+ORD7035,2025-09-03,Electronics,Laptop,7,30176,211232,Jaipur,Cash on Delivery,Pending
+ORD7036,2025-05-12,Sports,Cricket Bat,5,8316,41580,Bangalore,Cash on Delivery,Processing
+ORD7037,2025-09-12,Beauty,Face Cream,9,37573,338157,Jaipur,UPI,Processing
+ORD7038,2025-10-12,Electronics,Smart Watch,7,39168,274176,Surat,Net Banking,Pending
+ORD7039,2025-08-25,Home & Kitchen,Mixer,7,3004,21028,Bangalore,Net Banking,Shipped
+ORD7040,2025-11-16,Clothing,Shoes,7,4149,29043,Hyderabad,Cash on Delivery,Shipped
+ORD7041,2025-11-03,Beauty,Shampoo,10,9315,93150,Delhi,Net Banking,Cancelled
+ORD7042,2025-01-01,Beauty,Perfume,8,41473,331784,Kolkata,Credit Card,Pending
+ORD7043,2025-07-25,Clothing,T-Shirt,7,27197,190379,Jaipur,Credit Card,Pending
+ORD7044,2025-03-31,Automotive,Air Freshener,8,39281,314248,Delhi,Cash on Delivery,Pending
+ORD7045,2025-09-16,Toys,Doll,4,20934,83736,Pune,Credit Card,Shipped
+ORD7046,2025-12-31,Automotive,Seat Covers,2,16747,33494,Ahmedabad,Credit Card,Processing
+ORD7047,2025-01-16,Beauty,Hair Dryer,2,39623,79246,Hyderabad,Net Banking,Shipped
+ORD7048,2025-09-17,Sports,Bicycle,5,32972,164860,Surat,Credit Card,Pending
+ORD7049,2025-02-01,Sports,Bicycle,3,32199,96597,Hyderabad,Cash on Delivery,Pending
+ORD7050,2025-08-31,Electronics,Smart Watch,7,40114,280798,Hyderabad,Net Banking,Processing
+ORD7051,2025-02-24,Toys,Action Figure,3,38858,116574,Delhi,Debit Card,Shipped
+ORD7052,2025-02-10,Home & Kitchen,Vacuum Cleaner,3,47306,141918,Bangalore,Credit Card,Delivered
+ORD7053,2025-03-06,Beauty,Lipstick,2,27375,54750,Chennai,Net Banking,Shipped
+ORD7054,2025-12-14,Toys,Action Figure,6,6879,41274,Mumbai,Debit Card,Pending
+ORD7055,2025-03-11,Toys,Action Figure,6,47084,282504,Pune,Net Banking,Pending
+ORD7056,2025-10-21,Toys,Building Blocks,9,28085,252765,Ahmedabad,Cash on Delivery,Cancelled
+ORD7057,2025-09-09,Electronics,Smartphone,6,3415,20490,Surat,Cash on Delivery,Delivered
+ORD7058,2025-08-13,Clothing,T-Shirt,6,28849,173094,Mumbai,UPI,Shipped
+ORD7059,2025-12-09,Beauty,Perfume,9,31328,281952,Jaipur,Credit Card,Shipped
+ORD7060,2025-04-12,Electronics,Smart Watch,8,21513,172104,Bangalore,Debit Card,Processing
+ORD7061,2025-02-07,Electronics,Camera,10,19775,197750,Mumbai,Net Banking,Delivered
+ORD7062,2025-05-12,Toys,Board Game,9,14294,128646,Kolkata,UPI,Shipped
+ORD7063,2025-04-14,Automotive,Tool Kit,1,48807,48807,Chennai,Net Banking,Processing
+ORD7064,2025-08-04,Clothing,Shoes,7,22974,160818,Ahmedabad,UPI,Delivered
+ORD7065,2025-10-17,Automotive,Phone Holder,5,26776,133880,Mumbai,Credit Card,Cancelled
+ORD7066,2025-04-08,Beauty,Lipstick,9,6014,54126,Kolkata,Net Banking,Processing
+ORD7067,2025-08-14,Clothing,T-Shirt,8,17685,141480,Delhi,Debit Card,Shipped
+ORD7068,2025-04-27,Beauty,Perfume,4,19645,78580,Mumbai,Credit Card,Pending
+ORD7069,2025-10-16,Electronics,Tablet,9,14159,127431,Jaipur,UPI,Cancelled
+ORD7070,2025-04-20,Toys,Doll,1,44306,44306,Surat,Cash on Delivery,Processing
+ORD7071,2025-10-03,Toys,Action Figure,2,1547,3094,Chennai,Credit Card,Pending
+ORD7072,2025-04-22,Electronics,Laptop,9,38744,348696,Mumbai,Cash on Delivery,Cancelled
+ORD7073,2025-04-08,Clothing,Jacket,7,33637,235459,Kolkata,Credit Card,Delivered
+ORD7074,2025-06-05,Sports,Cricket Bat,10,29150,291500,Ahmedabad,Cash on Delivery,Processing
+ORD7075,2025-02-16,Sports,Dumbbells,6,6637,39822,Pune,Cash on Delivery,Shipped
+ORD7076,2025-06-01,Electronics,Laptop,10,44512,445120,Surat,Debit Card,Shipped
+ORD7077,2025-10-15,Books,Fiction Novel,1,27917,27917,Pune,Cash on Delivery,Cancelled
+ORD7078,2025-10-24,Home & Kitchen,Microwave,7,35516,248612,Ahmedabad,UPI,Shipped
+ORD7079,2025-02-08,Electronics,Smart Watch,4,48106,192424,Surat,Debit Card,Delivered
+ORD7080,2025-01-09,Home & Kitchen,Blender,9,8541,76869,Surat,UPI,Pending
+ORD7081,2025-11-05,Beauty,Hair Dryer,8,40338,322704,Surat,Credit Card,Shipped
+ORD7082,2025-11-03,Home & Kitchen,Microwave,2,10129,20258,Chennai,Net Banking,Cancelled
+ORD7083,2025-11-30,Automotive,Air Freshener,10,20464,204640,Pune,Cash on Delivery,Pending
+ORD7084,2025-04-04,Electronics,Headphones,8,32288,258304,Pune,UPI,Processing
+ORD7085,2025-10-12,Sports,Yoga Mat,7,24872,174104,Mumbai,Net Banking,Pending
+ORD7086,2025-05-18,Home & Kitchen,Coffee Maker,7,6841,47887,Delhi,Net Banking,Delivered
+ORD7087,2025-07-08,Toys,RC Car,10,49443,494430,Bangalore,Credit Card,Processing
+ORD7088,2025-06-29,Home & Kitchen,Vacuum Cleaner,1,27221,27221,Ahmedabad,UPI,Shipped
+ORD7089,2025-05-17,Sports,Yoga Mat,7,43270,302890,Delhi,Debit Card,Shipped
+ORD7090,2025-11-15,Books,Cookbook,4,30389,121556,Jaipur,UPI,Shipped
+ORD7091,2025-09-28,Toys,Action Figure,3,11846,35538,Surat,Debit Card,Pending
+ORD7092,2025-10-20,Toys,RC Car,9,13696,123264,Hyderabad,Credit Card,Processing
+ORD7093,2025-07-14,Home & Kitchen,Coffee Maker,10,48255,482550,Bangalore,Debit Card,Cancelled
+ORD7094,2025-12-09,Electronics,Headphones,6,36150,216900,Jaipur,Credit Card,Processing
+ORD7095,2025-02-18,Home & Kitchen,Mixer,9,49203,442827,Surat,Debit Card,Processing
+ORD7096,2025-11-02,Beauty,Shampoo,5,36435,182175,Kolkata,Credit Card,Cancelled
+ORD7097,2025-07-10,Books,Cookbook,5,40085,200425,Kolkata,Net Banking,Delivered
+ORD7098,2025-11-13,Books,Cookbook,8,21512,172096,Delhi,Debit Card,Pending
+ORD7099,2025-04-04,Sports,Yoga Mat,5,6404,32020,Chennai,Debit Card,Delivered
+ORD7100,2025-05-19,Books,Textbook,8,32653,261224,Delhi,Cash on Delivery,Delivered

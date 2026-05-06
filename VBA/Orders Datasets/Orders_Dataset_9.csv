@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Category,Product_Name,Quantity,Unit_Price,Total_Amount,City,Payment_Method,Status
+ORD9001,2025-02-04,Toys,Doll,2,21400,42800,Jaipur,Net Banking,Delivered
+ORD9002,2025-12-15,Electronics,Speaker,5,10315,51575,Ahmedabad,Credit Card,Pending
+ORD9003,2025-09-16,Books,Self-Help Book,5,37775,188875,Kolkata,Cash on Delivery,Delivered
+ORD9004,2025-05-08,Home & Kitchen,Blender,7,47972,335804,Pune,UPI,Processing
+ORD9005,2025-05-18,Beauty,Hair Dryer,10,3629,36290,Pune,Net Banking,Pending
+ORD9006,2025-04-16,Clothing,Dress,5,35633,178165,Surat,Net Banking,Processing
+ORD9007,2025-03-11,Automotive,Phone Holder,6,16923,101538,Surat,Cash on Delivery,Pending
+ORD9008,2025-09-08,Automotive,Air Freshener,5,45445,227225,Jaipur,Credit Card,Pending
+ORD9009,2025-03-18,Electronics,Smartphone,2,20090,40180,Delhi,Credit Card,Processing
+ORD9010,2025-12-22,Electronics,Headphones,6,5052,30312,Ahmedabad,Debit Card,Cancelled
+ORD9011,2025-06-02,Automotive,Phone Holder,5,29019,145095,Kolkata,Credit Card,Delivered
+ORD9012,2025-07-28,Automotive,Air Freshener,2,44350,88700,Surat,Credit Card,Shipped
+ORD9013,2025-05-05,Beauty,Lipstick,9,37165,334485,Mumbai,Debit Card,Processing
+ORD9014,2025-07-04,Clothing,Dress,2,11611,23222,Surat,UPI,Pending
+ORD9015,2025-08-08,Clothing,Jacket,6,46598,279588,Jaipur,Debit Card,Cancelled
+ORD9016,2025-12-07,Clothing,Shorts,10,30547,305470,Surat,Debit Card,Cancelled
+ORD9017,2025-11-10,Electronics,Tablet,9,7476,67284,Kolkata,Net Banking,Pending
+ORD9018,2025-06-10,Beauty,Makeup Kit,9,34734,312606,Jaipur,Debit Card,Delivered
+ORD9019,2025-04-26,Electronics,Tablet,2,32136,64272,Ahmedabad,UPI,Pending
+ORD9020,2025-01-16,Beauty,Makeup Kit,9,17145,154305,Delhi,Cash on Delivery,Shipped
+ORD9021,2025-01-16,Automotive,Tool Kit,3,17320,51960,Pune,Debit Card,Processing
+ORD9022,2025-10-26,Books,Textbook,4,39830,159320,Chennai,UPI,Shipped
+ORD9023,2025-01-24,Clothing,Shoes,1,46157,46157,Delhi,Credit Card,Delivered
+ORD9024,2025-09-17,Beauty,Face Cream,9,45315,407835,Chennai,UPI,Shipped
+ORD9025,2025-08-29,Automotive,Seat Covers,6,47567,285402,Mumbai,UPI,Shipped
+ORD9026,2025-03-06,Toys,Board Game,2,2557,5114,Delhi,UPI,Delivered
+ORD9027,2025-11-13,Beauty,Makeup Kit,4,3396,13584,Hyderabad,UPI,Pending
+ORD9028,2025-05-21,Clothing,Shorts,3,44640,133920,Kolkata,Net Banking,Delivered
+ORD9029,2025-04-23,Clothing,T-Shirt,2,31013,62026,Delhi,Debit Card,Shipped
+ORD9030,2025-06-20,Automotive,Air Freshener,6,23738,142428,Hyderabad,UPI,Pending
+ORD9031,2025-01-29,Home & Kitchen,Coffee Maker,5,29353,146765,Delhi,Credit Card,Cancelled
+ORD9032,2025-05-08,Beauty,Makeup Kit,3,1224,3672,Mumbai,Net Banking,Delivered
+ORD9033,2025-05-25,Home & Kitchen,Coffee Maker,2,38223,76446,Bangalore,Debit Card,Processing
+ORD9034,2025-04-18,Electronics,Tablet,6,31983,191898,Mumbai,UPI,Shipped
+ORD9035,2025-11-11,Beauty,Lipstick,1,12902,12902,Surat,Cash on Delivery,Pending
+ORD9036,2025-01-09,Automotive,Phone Holder,5,32578,162890,Ahmedabad,Credit Card,Cancelled
+ORD9037,2025-10-13,Electronics,Smartphone,7,27347,191429,Delhi,Credit Card,Pending
+ORD9038,2025-04-03,Home & Kitchen,Mixer,1,35370,35370,Mumbai,Debit Card,Delivered
+ORD9039,2025-06-08,Toys,Building Blocks,1,14152,14152,Surat,Net Banking,Cancelled
+ORD9040,2025-01-17,Automotive,Car Vacuum,5,46432,232160,Jaipur,Debit Card,Cancelled
+ORD9041,2025-07-21,Electronics,Headphones,7,30945,216615,Jaipur,Net Banking,Processing
+ORD9042,2025-07-07,Sports,Football,9,49611,446499,Hyderabad,Debit Card,Processing
+ORD9043,2025-02-11,Sports,Bicycle,10,26741,267410,Surat,Debit Card,Delivered
+ORD9044,2025-09-20,Electronics,Camera,9,24577,221193,Hyderabad,Credit Card,Shipped
+ORD9045,2025-01-05,Toys,Doll,5,12255,61275,Delhi,UPI,Cancelled
+ORD9046,2025-10-31,Automotive,Air Freshener,3,34667,104001,Hyderabad,Net Banking,Shipped
+ORD9047,2025-05-31,Books,Textbook,4,35563,142252,Surat,Debit Card,Pending
+ORD9048,2025-01-16,Sports,Yoga Mat,2,19002,38004,Surat,Debit Card,Processing
+ORD9049,2025-06-18,Books,Cookbook,9,23678,213102,Delhi,UPI,Cancelled
+ORD9050,2025-10-02,Sports,Football,7,26870,188090,Ahmedabad,Debit Card,Pending
+ORD9051,2025-06-27,Books,Cookbook,6,29711,178266,Jaipur,Credit Card,Pending
+ORD9052,2025-11-11,Automotive,Seat Covers,10,44299,442990,Chennai,Debit Card,Cancelled
+ORD9053,2025-06-22,Clothing,Shoes,2,22061,44122,Kolkata,Cash on Delivery,Delivered
+ORD9054,2025-09-29,Home & Kitchen,Coffee Maker,8,2396,19168,Delhi,Cash on Delivery,Cancelled
+ORD9055,2025-12-29,Toys,Action Figure,5,24491,122455,Ahmedabad,Cash on Delivery,Delivered
+ORD9056,2025-10-05,Toys,Puzzle,5,44901,224505,Mumbai,Net Banking,Processing
+ORD9057,2025-10-08,Automotive,Phone Holder,7,45512,318584,Pune,Debit Card,Cancelled
+ORD9058,2025-07-29,Toys,Board Game,4,20529,82116,Mumbai,Credit Card,Shipped
+ORD9059,2025-03-14,Sports,Dumbbells,7,3073,21511,Delhi,Net Banking,Delivered
+ORD9060,2025-11-11,Toys,Building Blocks,3,22019,66057,Kolkata,Cash on Delivery,Shipped
+ORD9061,2025-05-02,Toys,Doll,8,14595,116760,Pune,Credit Card,Delivered
+ORD9062,2025-10-01,Home & Kitchen,Mixer,9,46513,418617,Jaipur,Credit Card,Shipped
+ORD9063,2025-04-14,Sports,Yoga Mat,3,12322,36966,Pune,Credit Card,Delivered
+ORD9064,2025-09-25,Home & Kitchen,Vacuum Cleaner,3,5994,17982,Chennai,UPI,Pending
+ORD9065,2025-02-15,Electronics,Camera,9,29416,264744,Surat,UPI,Shipped
+ORD9066,2025-04-27,Books,Biography,1,492,492,Surat,Net Banking,Shipped
+ORD9067,2025-04-16,Home & Kitchen,Blender,10,28121,281210,Kolkata,Net Banking,Processing
+ORD9068,2025-05-28,Electronics,Speaker,10,9250,92500,Chennai,Cash on Delivery,Pending
+ORD9069,2025-07-19,Beauty,Hair Dryer,3,30335,91005,Jaipur,Credit Card,Cancelled
+ORD9070,2025-10-05,Electronics,Tablet,10,6097,60970,Pune,Debit Card,Delivered
+ORD9071,2025-12-06,Automotive,Car Vacuum,3,3519,10557,Hyderabad,UPI,Pending
+ORD9072,2025-12-12,Clothing,Shorts,2,20664,41328,Chennai,Net Banking,Delivered
+ORD9073,2025-02-15,Books,Magazine,3,2294,6882,Delhi,Credit Card,Delivered
+ORD9074,2025-01-03,Electronics,Headphones,6,37235,223410,Hyderabad,Cash on Delivery,Cancelled
+ORD9075,2025-05-12,Home & Kitchen,Cookware Set,5,14154,70770,Surat,Debit Card,Processing
+ORD9076,2025-11-29,Home & Kitchen,Mixer,8,45897,367176,Pune,Debit Card,Pending
+ORD9077,2025-10-07,Electronics,Camera,4,36096,144384,Pune,Cash on Delivery,Shipped
+ORD9078,2025-03-29,Clothing,Shorts,4,48742,194968,Ahmedabad,UPI,Pending
+ORD9079,2025-08-15,Automotive,Seat Covers,10,8765,87650,Chennai,Debit Card,Processing
+ORD9080,2025-07-23,Clothing,Jeans,2,25010,50020,Hyderabad,Debit Card,Shipped
+ORD9081,2025-12-02,Beauty,Makeup Kit,8,11157,89256,Delhi,Net Banking,Pending
+ORD9082,2025-07-23,Electronics,Camera,3,18736,56208,Hyderabad,Cash on Delivery,Cancelled
+ORD9083,2025-08-27,Sports,Yoga Mat,9,18893,170037,Mumbai,Cash on Delivery,Processing
+ORD9084,2025-12-11,Home & Kitchen,Mixer,9,7121,64089,Jaipur,Net Banking,Processing
+ORD9085,2025-01-09,Automotive,Seat Covers,4,34864,139456,Bangalore,Credit Card,Cancelled
+ORD9086,2025-05-12,Automotive,Car Vacuum,1,3046,3046,Delhi,Credit Card,Pending
+ORD9087,2025-11-20,Books,Magazine,5,35038,175190,Pune,Debit Card,Cancelled
+ORD9088,2025-04-17,Beauty,Lipstick,6,2361,14166,Bangalore,Net Banking,Cancelled
+ORD9089,2025-10-16,Clothing,T-Shirt,4,17020,68080,Surat,Credit Card,Pending
+ORD9090,2025-03-15,Clothing,Jeans,8,44901,359208,Kolkata,Debit Card,Processing
+ORD9091,2025-02-08,Books,Self-Help Book,3,38898,116694,Mumbai,UPI,Pending
+ORD9092,2025-05-15,Books,Fiction Novel,8,48077,384616,Jaipur,Credit Card,Pending
+ORD9093,2025-04-13,Automotive,Seat Covers,2,30783,61566,Mumbai,Net Banking,Shipped
+ORD9094,2025-02-09,Automotive,Tool Kit,2,20223,40446,Mumbai,Cash on Delivery,Cancelled
+ORD9095,2025-07-22,Books,Magazine,3,34568,103704,Pune,Cash on Delivery,Cancelled
+ORD9096,2025-12-08,Toys,Doll,10,16187,161870,Kolkata,Credit Card,Processing
+ORD9097,2025-12-01,Home & Kitchen,Mixer,1,10589,10589,Kolkata,Net Banking,Pending
+ORD9098,2025-03-26,Clothing,Shorts,9,37056,333504,Bangalore,Credit Card,Processing
+ORD9099,2025-10-01,Sports,Football,5,30460,152300,Jaipur,Cash on Delivery,Cancelled
+ORD9100,2025-08-13,Automotive,Car Vacuum,6,39930,239580,Surat,Debit Card,Pending
