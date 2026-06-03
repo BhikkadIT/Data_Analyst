@@ -1,0 +1,61 @@
+DIM_Date =
+ADDCOLUMNS (
+    CALENDAR (
+        DATE ( 2019, 1, 1 ),
+        DATE ( 2024, 12, 31 )
+    ),
+
+    "Year", YEAR ( [Date] ),
+
+    "Month", MONTH ( [Date] ),
+
+    "MonthName", FORMAT ( [Date], "MMMM" ),
+
+    "ShortMonth", FORMAT ( [Date], "MMM" ),
+
+    "Quarter", QUARTER ( [Date] ),
+
+    "QuarterName", "Q" & QUARTER ( [Date] ),
+
+    "YearQuarter",
+        YEAR ( [Date] ) & "-Q" & QUARTER ( [Date] ),
+
+    "YearMonth",
+        FORMAT ( [Date], "YYYY-MM" ),
+
+    "WeekDay",
+        WEEKDAY ( [Date], 2 ),
+
+    "DayName",
+        FORMAT ( [Date], "DDDD" ),
+
+    "DayOfMonth",
+        DAY ( [Date] ),
+
+    "IsWeekend",
+        IF (
+            WEEKDAY ( [Date], 2 ) >= 6,
+            "Weekend",
+            "Weekday"
+        ),
+
+    "FiscalYear",
+        IF (
+            MONTH ( [Date] ) >= 4,
+            "FY"
+                & YEAR ( [Date] )
+                & "-"
+                & RIGHT ( YEAR ( [Date] ) + 1, 2 ),
+            "FY"
+                & ( YEAR ( [Date] ) - 1 )
+                & "-"
+                & RIGHT ( YEAR ( [Date] ), 2 )
+        ),
+
+    "FiscalQuarter",
+        IF (
+            MONTH ( [Date] ) >= 4,
+            "Q" & ( INT ( ( MONTH ( [Date] ) - 4 ) / 3 ) + 1 ),
+            "Q" & ( INT ( ( MONTH ( [Date] ) + 8 ) / 3 ) + 1 )
+        )
+)
